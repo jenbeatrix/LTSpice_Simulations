@@ -1,0 +1,20 @@
+Downloads:
+
+https://www.filehorse.com/download-ltspice/ -> download Ltspice for free
+
+https://forum.allaboutcircuits.com/threads/how-to-add-op-amp-741-to-lt-spice.139069/ -> adding LM741 into the library
+
+https://forum.allaboutcircuits.com/threads/direction-of-current-flow-in-ltspice.154700/ -> download direct.zip for the resistor w/ polarity
+
+
+References:
+
+https://www.daenotes.com/electronics/digital-electronics/clipper-circuits -> Clipper circuits
+
+https://www.tutorialspoint.com/electronic_circuits/electronic_clamper_circuits.htm -> Clamper circuits
+
+https://www.elprocus.com/half-adder-and-full-adder/ -> half adder and full adder circuit design
+
+https://electricalacademia.com/electronics/transistor-characteristic-curves/ -> transistor characteristics graph
+
+
