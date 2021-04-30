@@ -15,4 +15,4 @@ Logic Circuits:
 
 ![image](https://user-images.githubusercontent.com/82814920/116656998-41f01480-a9c0-11eb-9c4b-9a04959c004b.png)
 
-
+© 2020, Jen Beatrix Maristela (aka jenbeatrix), All rights reserved.
