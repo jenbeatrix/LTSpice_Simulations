@@ -1,4 +1,4 @@
-# LTSpice_Simulations
+# LTSpice Schematic Diagrams and Simulations
 It contains the schematics and simulation of electrical, electronic and logic circuits using LTSpice.
 
 I shared the schematics I made when I was assigned to become the speaker of the LT Spice Webinar. 
