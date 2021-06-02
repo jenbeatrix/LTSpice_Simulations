@@ -3,6 +3,8 @@ It contains the schematics and simulation of electrical, electronic and logic ci
 
 I shared the schematics I made when I was assigned to become the speaker of the LT Spice Webinar. 
 
+![image](https://user-images.githubusercontent.com/82814920/120541017-e92af600-c41b-11eb-8a7d-fae460d6905f.png)
+
 Electrical Circuits:
 
 ![image](https://user-images.githubusercontent.com/82814920/116656947-26850980-a9c0-11eb-8e69-62eda065690a.png)
