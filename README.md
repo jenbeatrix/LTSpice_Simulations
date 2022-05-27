@@ -9,7 +9,7 @@ I shared the schematics I made when I was assigned to become the speaker of the 
 
 Simple LTspice demonstration: (I was the one assigned to demonstrate on how to use LT Spice and execute some problems and exercises)
 
-![image](https://user-images.githubusercontent.com/82814920/170634980-291c0d89-5951-4e1e-8285-36f98e0d97b5.png)
+![image](https://user-images.githubusercontent.com/82814920/170635555-5cb641a9-4fb8-423b-8978-68989c4e58c3.png)
 
 Practice Problems:
 
