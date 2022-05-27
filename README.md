@@ -3,6 +3,18 @@ It contains the schematics and simulation of electrical, electronic and logic ci
 
 I shared the schematics I made when I was assigned to become the speaker of the LT Spice Webinar. 
 
+![image](https://user-images.githubusercontent.com/82814920/170634898-b636f77c-d966-4737-8b7d-a2cd6499fb82.png)
+
+![image](https://user-images.githubusercontent.com/82814920/170634926-d19e8910-9d24-435a-be90-1bc6a5e3bafd.png)
+
+Simple LTspice demonstration: (I was the one assigned to demonstrate on how to use LT Spice and execute some problems and exercises)
+
+![image](https://user-images.githubusercontent.com/82814920/170634980-291c0d89-5951-4e1e-8285-36f98e0d97b5.png)
+
+Practice Problems:
+
+![image](https://user-images.githubusercontent.com/82814920/170635255-b93302e2-7546-4009-82c0-20d49582d832.png)
+
 ![image](https://user-images.githubusercontent.com/82814920/120541017-e92af600-c41b-11eb-8a7d-fae460d6905f.png)
 
 Electrical Circuits:
